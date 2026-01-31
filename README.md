@@ -1,5 +1,5 @@
 # ⚡ Hello World, eu sou Lucas Gasparoto!
-### Analista de Sistemas | Desenvolvedor Full Stack |
+### Analista de TI | Infraestrutura & Redes | Desenvolvedor de Sistemas
 
 Analista de Sistemas focado em transformar problemas complexos em soluções digitais elegantes. Minha maior habilidade é a **adaptabilidade tecnológica**: não importa a stack, eu aprendo e entrego em produção com alta velocidade.
 
